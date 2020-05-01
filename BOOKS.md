@@ -20,4 +20,4 @@ Grab a book and relax, these ones are the best security books (in my opinion).
 - [The Browser Hackers Handbook by Wade Alcorn et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
 - [The Mobile Application Hackers Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
 - [Car Hacker's Handbook by Craig Smith, 2016](https://www.nostarch.com/carhacking)
-- [How to Hack Like a Ghost] (https://www.amazon.com/How-Hack-Like-GHOST-detailed-ebook/dp/B0852RCVTC)
+- [How to Hack Like a Ghost](https://www.amazon.com/How-Hack-Like-GHOST-detailed-ebook/dp/B0852RCVTC)
